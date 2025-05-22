@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/d09a5c26-f44d-4f81-9bfb-195f57ad8353)
 
+![image](https://github.com/user-attachments/assets/669be13c-85de-4d6f-9e21-0f4dfb583a32)
+
+
 # 排班表管理系统 - 全方位使用说明书
 
 ## 目录
