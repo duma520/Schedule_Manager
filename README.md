@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/669be13c-85de-4d6f-9e21-0f4dfb583a32)
 
+![image](https://github.com/user-attachments/assets/3997d8ec-2d8a-4555-8a48-ad04578638cf)
+
+![image](https://github.com/user-attachments/assets/0f818a03-8479-4783-867c-eef9615ba0e9)
+
 
 # 排班表管理系统 - 全方位使用说明书
 
