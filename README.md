@@ -1,10 +1,4 @@
-![image](https://github.com/user-attachments/assets/d09a5c26-f44d-4f81-9bfb-195f57ad8353)
-
-![image](https://github.com/user-attachments/assets/669be13c-85de-4d6f-9e21-0f4dfb583a32)
-
-![image](https://github.com/user-attachments/assets/3997d8ec-2d8a-4555-8a48-ad04578638cf)
-
-![image](https://github.com/user-attachments/assets/0f818a03-8479-4783-867c-eef9615ba0e9)
+# 软件截图：
 
 ![image](https://github.com/user-attachments/assets/a655c490-61b7-4f26-86aa-954a0bd14520)
 
