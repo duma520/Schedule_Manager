@@ -12,6 +12,17 @@
 
 ![image](https://github.com/user-attachments/assets/298f2ddc-18f6-4ce7-a942-624aa216c4c8)
 
+![image](https://github.com/user-attachments/assets/b50352ec-dda3-4930-89ae-21382fb8779b)
+
+![image](https://github.com/user-attachments/assets/290661fd-a020-4e64-bba2-410bd58c47fa)
+
+![image](https://github.com/user-attachments/assets/01df4c36-ea10-4854-939c-b2199bd19891)
+
+![image](https://github.com/user-attachments/assets/69ea96cb-1021-4f0f-8239-da32825a3f6e)
+
+![image](https://github.com/user-attachments/assets/8e075b05-05a7-4edd-bcf8-1ecfd3f44c5b)
+
+
 # 排班表管理系统 - 全面说明书
 
 ## 1. 项目概述
