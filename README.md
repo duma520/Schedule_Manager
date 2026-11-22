@@ -22,7 +22,6 @@
 
 ![image](https://github.com/user-attachments/assets/8e075b05-05a7-4edd-bcf8-1ecfd3f44c5b)
 
-
 # 排班表管理系统 - 全面说明书
 
 ## 1. 项目概述
@@ -42,7 +41,7 @@
 - 使用PyQt5构建图形界面
 - SQLite3作为数据库引擎
 - 支持跨平台运行(Windows/macOS/Linux)
-- 符合MIT开源协议
+- 符合AGPL-3.0 开源协议
 
 ## 2. 详细功能说明
 
